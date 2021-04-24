@@ -1,0 +1,27 @@
+.Post-container{
+    text-align: left;
+    padding: 40px;
+    display: flex;
+    background-color: #a2e0e0;
+    border-radius: 10px;
+    width: 700px;
+}
+
+.Post-logo{
+    margin: 5px;
+    border-radius: 50%;
+    width: 100px;
+}
+
+.Post-content{
+    padding: 5px;
+}
+.Content-item{
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.Content-image{
+    border-radius: 5px;
+    width: 100%;
+}
